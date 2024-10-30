@@ -1,0 +1,695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Edit User Access Permission\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-18 14:40+0000\n"
+"PO-Revision-Date: 2022-12-14 09:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: muap-mbmti"
+
+#: controller/role.php:37
+msgid "%s role cannot be deleted, it is a system role"
+msgstr "نقش %s قابل حذف نیست از نقش های سیستمی می باشد"
+
+#: controller/role.php:52
+msgid "%s role has been successfully added"
+msgstr "نقش %s با موفقیت اضافه شد"
+
+#: controller/role.php:34
+msgid "%s role has been successfully removed"
+msgstr "نقش %s با موفقیت حذف شد"
+
+#: controller/role.php:50
+msgid "%s role has been successfully updated"
+msgstr "نقش %s با موفقیت ویرایش شد"
+
+#: controller/access.php:289
+#, php-format
+msgid "%s url has been successfully added"
+msgstr "آدرس %s با موفقیت اضافه شد"
+
+#: controller/access.php:286
+#, php-format
+msgid "%s url has been successfully updated"
+msgstr "آدرس %s با موفقیت ویرایش شد"
+
+msgid "activate_plugins"
+msgstr "فعال سازی افزونه ها"
+
+#: controller/access.php:307
+msgid "Add or edit url"
+msgstr "ویرایش یا اضافه کردن url"
+
+msgid "assign_product_terms"
+msgstr "اختصاص اطلاعات محصول"
+
+msgid "assign_shop_coupon_terms"
+msgstr "اختصاص اطلاعات تخفیف"
+
+msgid "assign_shop_order_terms"
+msgstr "اختصاص اطلاعات سفارش"
+
+msgid "Coupon"
+msgstr "تخفیفات و کوپن"
+
+msgid "Create role"
+msgstr "ایجاد نقش"
+
+msgid "create_users"
+msgstr "ایجاد کاربر جدید"
+
+#: controller/access.php:90 controller/access.php:93 controller/access.php:352
+#: controller/role.php:127
+msgid "Delete"
+msgstr "حذف"
+
+msgid "delete_others_pages"
+msgstr "حذف برگه های دیگران"
+
+msgid "delete_others_posts"
+msgstr "حذف نوشته های دیگران"
+
+msgid "delete_others_products"
+msgstr "حذف محصولات دیگران"
+
+msgid "delete_others_shop_coupons"
+msgstr "حذف تخفیف های دیگران"
+
+msgid "delete_others_shop_orders"
+msgstr "حذف سفارشات دیگران"
+
+msgid "delete_pages"
+msgstr "حذف برگه ها"
+
+msgid "delete_plugins"
+msgstr "حذف افزونه ها"
+
+msgid "delete_posts"
+msgstr "حذف نوشته ها"
+
+msgid "delete_private_pages"
+msgstr "حذف برگه خصوصی"
+
+msgid "delete_private_posts"
+msgstr "حذف نوشته خصوصی"
+
+msgid "delete_private_products"
+msgstr "حذف محصولات خصوصی"
+
+msgid "delete_private_shop_coupons"
+msgstr "حذف تخفیف های خصوصی"
+
+msgid "delete_private_shop_orders"
+msgstr "حذف سفارشات خصوصی"
+
+msgid "delete_product"
+msgstr "حذف محصول"
+
+msgid "delete_product_terms"
+msgstr "حذف اطلاعات محصولات"
+
+msgid "delete_products"
+msgstr "حذف محصولات"
+
+msgid "delete_published_pages"
+msgstr "حذف برگه منتشر شده"
+
+msgid "delete_published_posts"
+msgstr "حذف نوشته منتشر شده"
+
+msgid "delete_published_products"
+msgstr "حذف محصولات منتشر شده"
+
+msgid "delete_published_shop_coupons"
+msgstr "حذف تخفیف های منتشر شده"
+
+msgid "delete_published_shop_orders"
+msgstr "حذف سفارشات منتشر شده"
+
+msgid "delete_shop_coupon"
+msgstr "حذف تخفیف"
+
+msgid "delete_shop_coupon_terms"
+msgstr "حذف اطلاعات تخفیف"
+
+msgid "delete_shop_coupons"
+msgstr "حذف تخفیفات"
+
+msgid "delete_shop_order"
+msgstr "حذف سفارش"
+
+msgid "delete_shop_order_terms"
+msgstr "حذف اطلاعات سفارشات"
+
+msgid "delete_shop_orders"
+msgstr "حذف سفارشات فروشگاه"
+
+msgid "delete_themes"
+msgstr "حذف پوسته"
+
+msgid "delete_users"
+msgstr "حذف کاربران"
+
+msgid "disable_dashboard_alert_notifi"
+msgstr "مشاهده اعلان های داشبورد"
+
+msgid "Dokan"
+msgstr "دکان و چند فروشندگی"
+
+msgid "dokan_add_coupon"
+msgstr "اضافه کردن تخفیف"
+
+msgid "dokan_add_product"
+msgstr "اضافه کردن محصول"
+
+msgid "dokan_delete_coupon"
+msgstr "حذف کردن تخفیف"
+
+msgid "dokan_delete_product"
+msgstr "حذف کردن  محصول"
+
+msgid "dokan_duplicate_product"
+msgstr "محصول تکراری"
+
+msgid "dokan_edit_coupon"
+msgstr "ویرایش کردن تخفیف"
+
+msgid "dokan_edit_product"
+msgstr "ویرایش کردن محصول"
+
+msgid "dokan_export_order"
+msgstr "برونریزی  سفارشات"
+
+msgid "dokan_export_product"
+msgstr "برونریزی محصولات"
+
+msgid "dokan_import_product"
+msgstr "درون ریزی محصولات"
+
+msgid "dokan_manage_order"
+msgstr "مدیریت سفارشات"
+
+msgid "dokan_manage_order_note"
+msgstr "مدیریت یادداشت سفارشات"
+
+msgid "dokan_manage_refund"
+msgstr "مدیریت بازپرداخت "
+
+msgid "dokan_manage_reviews"
+msgstr "مدیریت بررسی ها"
+
+msgid "dokan_manage_withdraw"
+msgstr ""
+
+msgid "dokan_view_announcement"
+msgstr "مدیریت اعلامیه ها"
+
+msgid "dokan_view_coupon_menu"
+msgstr "منوی تخفیف"
+
+msgid "dokan_view_daily_sale_report"
+msgstr "گزارش فروش روزانه"
+
+msgid "dokan_view_order"
+msgstr "مشاهده سفارش"
+
+msgid "dokan_view_order_menu"
+msgstr "منوی سفارش"
+
+msgid "dokan_view_order_report"
+msgstr "گزارش مشاهده سفارش"
+
+msgid "dokan_view_overview_menu"
+msgstr "منوی نمای کلی"
+
+msgid "dokan_view_overview_report"
+msgstr "گزارش نمای کلی"
+
+msgid "dokan_view_product"
+msgstr "محصول"
+
+msgid "dokan_view_product_menu"
+msgstr "منوی محصول"
+
+msgid "dokan_view_product_status_report"
+msgstr "گزارش وضعیت محصولات"
+
+msgid "dokan_view_report_menu"
+msgstr "منوی گزارش"
+
+msgid "dokan_view_review_menu"
+msgstr "منوی بررسی ها"
+
+msgid "dokan_view_review_reports"
+msgstr "گزارش بررسی ها"
+
+msgid "dokan_view_reviews"
+msgstr "بررسی ها"
+
+msgid "dokan_view_sales_overview"
+msgstr "نمای کلی فروش"
+
+msgid "dokan_view_sales_report_chart"
+msgstr "گزارش نموداری فروش"
+
+msgid "dokan_view_statement_report"
+msgstr "گزارش بیانیه ها"
+
+msgid "dokan_view_store_payment_menu"
+msgstr "منوی پرداخت فروشگاه"
+
+msgid "dokan_view_store_seo_menu"
+msgstr "منوی سئوی فروشگاه"
+
+msgid "dokan_view_store_settings_menu"
+msgstr "منوی تنظیمات فروشگاه"
+
+msgid "dokan_view_store_shipping_menu"
+msgstr "منوی حمل و نقل فروشگاه"
+
+msgid "dokan_view_store_social_menu"
+msgstr "منوی صفحات اجتماعی فروشگاه"
+
+msgid "dokan_view_top_earning_report"
+msgstr "گزارش بالاترین درآمدها"
+
+msgid "dokan_view_top_selling_report"
+msgstr "گزارش بالاترین فروش"
+
+msgid "dokan_view_withdraw_menu"
+msgstr ""
+
+msgid "dokandar"
+msgstr "فروشنده دکان"
+
+#: controller/access.php:89 controller/access.php:92 controller/access.php:351
+#: controller/role.php:126
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Edit role"
+msgstr "ویرایش نقش"
+
+msgid "edit_dashboard"
+msgstr "ویرایش داشبورد مدیریت"
+
+msgid "edit_files"
+msgstr "ویرایش فایل ها"
+
+msgid "edit_others_pages"
+msgstr "ویرایش برگه های دیگران"
+
+msgid "edit_others_posts"
+msgstr "ویرایش نوشته های دیگران"
+
+msgid "edit_others_products"
+msgstr "ویرایش محصولات دیگران"
+
+msgid "edit_others_shop_coupons"
+msgstr "ویرایش تخفیفات دیگران"
+
+msgid "edit_others_shop_orders"
+msgstr "ویرایش سفارشات دیگران"
+
+msgid "edit_pages"
+msgstr "ویرایش برگه ها"
+
+msgid "edit_plugins"
+msgstr "ویرایش افزونه"
+
+msgid "edit_posts"
+msgstr "ویرایش نوشته ها"
+
+msgid "edit_private_pages"
+msgstr "ویرایش برگه های خصوصی"
+
+msgid "edit_private_posts"
+msgstr "ویرایش نوشته های خصوصی"
+
+msgid "edit_private_products"
+msgstr "ویرایش محصولات خصوصی"
+
+msgid "edit_private_shop_coupons"
+msgstr "ویرایش تخفیفات خصوصی"
+
+msgid "edit_private_shop_orders"
+msgstr "ویرایش سفارش خصوصی فروشگاه"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "edit_product_terms"
+msgstr "ویرایش اطلاعات محصول"
+
+msgid "edit_products"
+msgstr "ویرایش محصول"
+
+msgid "edit_published_pages"
+msgstr "ویرایش برگه های منتشر شده"
+
+msgid "edit_published_posts"
+msgstr "ویرایش نوشته های منتشر شده"
+
+msgid "edit_published_products"
+msgstr "ویرایش محصولات منتشر شده"
+
+msgid "edit_published_shop_coupons"
+msgstr "ویرایش تخفیفات منتشر شده"
+
+msgid "edit_published_shop_orders"
+msgstr "ویرایش سفارش منتشر شده"
+
+msgid "edit_shop_coupon"
+msgstr "ویرایش تخفیف"
+
+msgid "edit_shop_coupon_terms"
+msgstr "ویرایش اطلاعات تخفیف"
+
+msgid "edit_shop_coupons"
+msgstr "ویرایش تخفیفات"
+
+msgid "edit_shop_order"
+msgstr "ویرایش سفارش "
+
+msgid "edit_shop_order_terms"
+msgstr "ویرایش اطلاعات سفارشات فروشگاه"
+
+msgid "edit_shop_orders"
+msgstr "ویرایش سفارشات فروشگاه"
+
+msgid "edit_theme_options"
+msgstr "ویرایش تنظیمات پوسته"
+
+msgid "edit_themes"
+msgstr "ویرایش پوسته"
+
+msgid "edit_users"
+msgstr "ویرایش کاربران"
+
+msgid "export"
+msgstr "برونریزی"
+
+#. Author URI of the plugin
+msgid "http://mbmti.ir/about-us"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mbmti.ir/manage-user-access-permission-plugin"
+msgstr ""
+
+msgid "import"
+msgstr "درونریزی"
+
+msgid "install_plugins"
+msgstr "نصب افزونه ها"
+
+msgid "install_themes"
+msgstr "نصب پوسته"
+
+msgid "list_users"
+msgstr "لیست کاربران"
+
+msgid "loco_admin"
+msgstr "مدیریت ترجمه"
+
+msgid "Manage Access"
+msgstr "مدیریت دسترسی"
+
+msgid "Manage Access Actions & Capabilities"
+msgstr "دسترسی به عملیات ها ( قابلیت نقش )"
+
+msgid "Manage Access Dashboard Admin"
+msgstr "دسترسی منوی پیشخوان"
+
+msgid "Manage Access Other Roles"
+msgstr "مدیریت دسترسی به نقش های دیگر"
+
+msgid "Manage Access User"
+msgstr "مدیریت دسترسی کاربر"
+
+#: controller/access.php:84 controller/role.php:124 include/core.php:104
+#: include/core.php:104
+msgid "Manage capabilities"
+msgstr "مدیریت قابلیت ها"
+
+#: controller/access.php:182
+msgid "Manage capabilities for %s role"
+msgstr "مدیریت قابلیت ها برای نقش %s"
+
+#: controller/access.php:85 controller/role.php:125 include/core.php:105
+#: include/core.php:105
+msgid "Manage custom url"
+msgstr "مدیریت آدرس های سفارشی"
+
+#: controller/access.php:293
+#, php-format
+msgid "Manage custom url for %s role"
+msgstr "مدیریت آدرس های سفارشی  برای نقش %s"
+
+#: controller/access.php:83 controller/role.php:123 include/core.php:103
+#: include/core.php:103
+msgid "Manage menu access"
+msgstr "مدیریت دسترسی منو"
+
+#: controller/access.php:108
+msgid "Manage menu access for %s role"
+msgstr "مدیریت دسترسی منو برای نقش %s"
+
+#: controller/role.php:68
+msgid "Manage role"
+msgstr "مدیریت نقش"
+
+msgid "Manage Roles"
+msgstr "مدیریت نقش ها"
+
+#: include/core.php:102
+msgid "manage user access"
+msgstr "مدیریت دسترسی کاربر"
+
+#. Name of the plugin
+msgid "Manage User Access Permission"
+msgstr "مدیریت مجوز دسترسی کاربر"
+
+msgid "manage_access"
+msgstr "مدیریت دسترسی به منوی پیشخوان وردپرس"
+
+msgid "manage_access_user"
+msgstr "مدیریت دسترسی کاربر"
+
+msgid "manage_categories"
+msgstr "مدیریت دسته بندی ها"
+
+msgid "manage_links"
+msgstr "مدیریت پیوند ها و لینک ها"
+
+msgid "manage_options"
+msgstr "دسترسی به پیشخوان وردپرس"
+
+msgid "manage_product_terms"
+msgstr "مدیریت اطلاعات محصولات"
+
+msgid "manage_shop_coupon_terms"
+msgstr "مدیریت اطلاعات تخفیفات"
+
+msgid "manage_shop_order_terms"
+msgstr "مدیریت اطلاعات سفارشات فروشگاه"
+
+msgid "manage_woocommerce"
+msgstr "مدیریت ووکامرس"
+
+msgid "moderate_comments"
+msgstr "مدیریت دیدگاه ها"
+
+msgid "muap_access"
+msgstr "مدیریت دسترسی به منوی پیشخوان"
+
+msgid "muap_cap"
+msgstr "مدیریت دسترسی به عملیات ها"
+
+msgid "muap_other_roles"
+msgstr "مدیریت دسترسی به نقش های دیگر"
+
+#: controller/role.php:95
+msgid "Name"
+msgstr "نام"
+
+#. Author of the plugin
+msgid "Net Tutorial"
+msgstr ""
+
+msgid "Orders"
+msgstr "سفارشات"
+
+msgid "other plugins"
+msgstr "سایر عملیات ها"
+
+msgid "Others"
+msgstr "سایر عملیات ها"
+
+msgid "pages"
+msgstr "برگه ها"
+
+msgid "plugin loco"
+msgstr "افزونه loco"
+
+msgid "plugin yoast"
+msgstr "افزونه yoast"
+
+msgid "Products"
+msgstr "محصولات"
+
+msgid "promote_users"
+msgstr "ارتقاء کاربران"
+
+msgid "publish_pages"
+msgstr "منتشر کردن برگه"
+
+msgid "publish_posts"
+msgstr "منتشر کردن نوشته"
+
+msgid "publish_products"
+msgstr "انتشار محصولات"
+
+msgid "publish_shop_coupons"
+msgstr "انتشار تخفیفات فروشگاه"
+
+msgid "publish_shop_orders"
+msgstr "انتشار سفارشات فروشگاه"
+
+msgid "read"
+msgstr "خواندن اطلاعات پیشخوان"
+
+msgid "read_private_pages"
+msgstr "خواندن برگه های خصوصی"
+
+msgid "read_private_posts"
+msgstr "خواندن نوشته های خصوصی"
+
+msgid "read_private_products"
+msgstr "مشاهده محصولات خصوصی"
+
+msgid "read_private_shop_coupons"
+msgstr "مشاهده تخفیفات خصوصی فروشگاه"
+
+msgid "read_private_shop_orders"
+msgstr "مشاهده سفارشات خصوصی فروشگاه"
+
+msgid "read_product"
+msgstr "مشاهده محصول"
+
+msgid "read_shop_coupon"
+msgstr "مشاهده تخفیف های فروشگاه"
+
+msgid "read_shop_order"
+msgstr "مشاهده سفارش فروشگاه"
+
+msgid "remove_users"
+msgstr "حذف کاربران"
+
+msgid "Role name & Role title required!"
+msgstr "نام و عنوان نقش الزامی هست برای ایجاد نقش باید وارد شوند"
+
+#: controller/role.php:79
+msgid "Role name (English letters)"
+msgstr "نام نقش (حروف انگلیسی)"
+
+msgid "Role name here"
+msgstr "نام نقش را اینجا وارد نمائید"
+
+#: controller/role.php:83
+msgid "Role title (optional characters)"
+msgstr "عنوان نقش (حروف اختیاری انگلیسی یا فارسی)"
+
+msgid "Role title here"
+msgstr "عنوان نقش را اینجا وارد نمائید"
+
+#: controller/access.php:332 controller/role.php:94
+msgid "Row"
+msgstr "ردیف"
+
+#: controller/access.php:118 controller/access.php:191 controller/role.php:87
+msgid "Save"
+msgstr "ذخیره"
+
+#: controller/access.php:326
+msgid "Save access user"
+msgstr "ذخیره دسترسی کاربر"
+
+#: controller/access.php:318
+msgid "Save url"
+msgstr "ذخیره url"
+
+msgid "switch_themes"
+msgstr "عوض کردن پوسته"
+
+#: controller/access.php:333 controller/role.php:96
+msgid "Title"
+msgstr "عنوان"
+
+#: controller/access.php:117 controller/access.php:190
+#: controller/access.php:324
+msgid "To allow access to any part, select it and finally save"
+msgstr "برای اجازه دسترسی به هر قسمت آن را انتخاب نمائید و در آخر ذخیره کنید"
+
+msgid "unfiltered_html"
+msgstr ""
+
+msgid "unfiltered_upload"
+msgstr ""
+
+msgid "update_core"
+msgstr "بروزرسانی هسته وردپرس"
+
+msgid "update_plugins"
+msgstr "بروزرسانی افزونه"
+
+msgid "update_themes"
+msgstr "بروزرسانی پوسته"
+
+msgid "upload_files"
+msgstr "بارگذاری فایل"
+
+#: controller/access.php:310 controller/access.php:334
+msgid "Url"
+msgstr "آدرس Url"
+
+#: controller/access.php:265
+msgid "url has been successfully removed"
+msgstr "آدرس url با موفقیت حذف گردید"
+
+#: controller/access.php:314
+msgid "Url title"
+msgstr "عنوان آدرس url"
+
+#. Description of the plugin
+msgid ""
+"User role management,Managing access to menus in such a way that if the menu "
+"is not accessed, the screen will be locked,Post type support,Support for "
+"plugins and template menus,completely free"
+msgstr ""
+"مدیریت نقش کاربر، مدیریت دسترسی به منوها به گونه ای که در صورت عدم دسترسی به "
+"منو، صفحه قفل شود، پشتیبانی از نوع پست، پشتیبانی از افزونه ها و منوهای قالب، "
+"کاملا رایگان"
+
+msgid "users"
+msgstr "کاربران"
+
+msgid "view_woocommerce_reports"
+msgstr "گزارش ووکامرس"
+
+msgid "Woocommerce"
+msgstr "ووکامرس و فروشگاه"
+
+msgid "Wordpress core"
+msgstr "هسته وردپرس"
+
+msgid "wpseo_manage_options"
+msgstr "مدیریت سئو"

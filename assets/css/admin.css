@@ -1,0 +1,77 @@
+.muap-content{
+display: flex;
+}
+.muap-content table.list{
+    border-spacing:0; /* Removes the cell spacing via CSS */
+    border-collapse: collapse;
+    background-color: #fff;
+}
+.muap-content table.list th{
+    /* text-align: right; */
+}
+.muap-content table.list td,.muap-content table.list th{
+    padding: 4px;
+    border-top: 1px solid #999898;
+    border-right: 1px solid #999898;
+    border-left: 1px solid #999898;
+}
+
+.muap-content table.list tr:last-child  td{
+    border-bottom: 1px solid #999898;
+}
+
+.muap-content table.list td a{
+
+}
+
+.muap-content .box{
+    padding: 5px;;
+}
+
+.muap-content .box50{
+    width: 49%;
+}
+
+.muap-content .box60{
+    width: 59%;
+}
+
+.muap-content .box40{
+    width: 39%;
+}
+
+.muap-content .box70{
+    width: 69%;
+}
+
+.muap-content .box30{
+    width: 29%;
+}
+
+.muap-content  .muap-tree{
+    background: #fff;
+    padding: 10px;
+}
+
+.capabilities-checkbox{
+    float: left;
+    margin-right: 13px;
+    margin-top: 4px;
+    border: 1px solid #cbc8c8;
+    padding: 3px;
+    width: 30%;
+    text-align: left;
+}
+
+.capabilities-checkbox label{
+    margin-left: 5px;
+} 
+
+.capabilities-checkbox-ul{
+
+    margin: 34px;
+}
+.capabilities-checkbox-ul .capabilities-checkbox-li{
+
+}
+

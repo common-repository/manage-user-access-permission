@@ -1,0 +1,693 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Edit User Access Permission\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 09:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: muap-mbmti"
+
+#: controller/role.php:37
+msgid "%s role cannot be deleted, it is a system role"
+msgstr ""
+
+#: controller/role.php:52
+msgid "%s role has been successfully added"
+msgstr ""
+
+#: controller/role.php:34
+msgid "%s role has been successfully removed"
+msgstr ""
+
+#: controller/role.php:50
+msgid "%s role has been successfully updated"
+msgstr ""
+
+#: controller/access.php:289
+#, php-format
+msgid "%s url has been successfully added"
+msgstr ""
+
+#: controller/access.php:286
+#, php-format
+msgid "%s url has been successfully updated"
+msgstr ""
+
+#: controller/access.php:307
+msgid "Add or edit url"
+msgstr ""
+
+#: controller/access.php:90 controller/access.php:93 controller/access.php:352
+#: controller/role.php:127
+msgid "Delete"
+msgstr ""
+
+#: controller/access.php:89 controller/access.php:92 controller/access.php:351
+#: controller/role.php:126
+msgid "Edit"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://mbmti.ir/about-us"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mbmti.ir/manage-user-access-permission-plugin"
+msgstr ""
+
+#: controller/access.php:84 controller/role.php:124 include/core.php:104
+#: include/core.php:104
+msgid "Manage capabilities"
+msgstr ""
+
+#: controller/access.php:182
+msgid "Manage capabilities for %s role"
+msgstr ""
+
+#: controller/access.php:85 controller/role.php:125 include/core.php:105
+#: include/core.php:105
+msgid "Manage custom url"
+msgstr ""
+
+#: controller/access.php:293
+#, php-format
+msgid "Manage custom url for %s role"
+msgstr ""
+
+#: controller/access.php:83 controller/role.php:123 include/core.php:103
+#: include/core.php:103
+msgid "Manage menu access"
+msgstr ""
+
+#: controller/access.php:108
+msgid "Manage menu access for %s role"
+msgstr ""
+
+#: controller/role.php:68
+msgid "Manage role"
+msgstr ""
+
+#: include/core.php:102
+msgid "manage user access"
+msgstr ""
+
+#. Name of the plugin
+msgid "Manage User Access Permission"
+msgstr ""
+
+#: controller/role.php:95
+msgid "Name"
+msgstr ""
+
+#. Author of the plugin
+msgid "Net Tutorial"
+msgstr ""
+
+#: controller/role.php:79
+msgid "Role name (English letters)"
+msgstr ""
+
+#: controller/role.php:83
+msgid "Role title (optional characters)"
+msgstr ""
+
+#: controller/access.php:332 controller/role.php:94
+msgid "Row"
+msgstr ""
+
+#: controller/access.php:118 controller/access.php:191 controller/role.php:87
+msgid "Save"
+msgstr ""
+
+#: controller/access.php:326
+msgid "Save access user"
+msgstr ""
+
+#: controller/access.php:318
+msgid "Save url"
+msgstr ""
+
+#: controller/access.php:333 controller/role.php:96
+msgid "Title"
+msgstr ""
+
+#: controller/access.php:117 controller/access.php:190
+#: controller/access.php:324
+msgid "To allow access to any part, select it and finally save"
+msgstr ""
+
+#: controller/access.php:310 controller/access.php:334
+msgid "Url"
+msgstr ""
+
+#: controller/access.php:265
+msgid "url has been successfully removed"
+msgstr ""
+
+#: controller/access.php:314
+msgid "Url title"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"User role management,Managing access to menus in such a way that if the menu "
+"is not accessed, the screen will be locked,Post type support,Support for "
+"plugins and template menus,completely free"
+msgstr ""
+
+msgid "switch_themes"
+msgstr ""
+
+msgid "edit_themes"
+msgstr ""
+
+msgid "activate_plugins"
+msgstr ""
+
+msgid "manage_options"
+msgstr ""
+
+msgid "moderate_comments"
+msgstr ""
+
+msgid "manage_categories"
+msgstr ""
+
+msgid "edit_plugins"
+msgstr ""
+
+msgid "edit_users"
+msgstr ""
+
+msgid "edit_files"
+msgstr ""
+
+msgid "manage_links"
+msgstr ""
+
+msgid "upload_files"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "unfiltered_html"
+msgstr ""
+
+msgid "edit_posts"
+msgstr ""
+
+msgid "edit_others_posts"
+msgstr ""
+
+msgid "edit_published_posts"
+msgstr ""
+
+msgid "publish_posts"
+msgstr ""
+
+msgid "edit_pages"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "edit_others_pages"
+msgstr ""
+
+msgid "edit_published_pages"
+msgstr ""
+
+msgid "publish_pages"
+msgstr ""
+
+msgid "delete_pages"
+msgstr ""
+
+msgid "delete_others_pages"
+msgstr ""
+
+msgid "delete_published_pages"
+msgstr ""
+
+msgid "delete_posts"
+msgstr ""
+
+msgid "delete_others_posts"
+msgstr ""
+
+msgid "delete_published_posts"
+msgstr ""
+
+msgid "delete_private_posts"
+msgstr ""
+
+msgid "edit_private_posts"
+msgstr ""
+
+msgid "read_private_posts"
+msgstr ""
+
+msgid "delete_private_pages"
+msgstr ""
+
+msgid "edit_private_pages"
+msgstr ""
+
+msgid "read_private_pages"
+msgstr ""
+
+msgid "delete_users"
+msgstr ""
+
+msgid "create_users"
+msgstr ""
+
+msgid "unfiltered_upload"
+msgstr ""
+
+msgid "edit_dashboard"
+msgstr ""
+
+msgid "update_plugins"
+msgstr ""
+
+msgid "delete_plugins"
+msgstr ""
+
+msgid "update_themes"
+msgstr ""
+
+msgid "install_themes"
+msgstr ""
+
+msgid "update_core"
+msgstr ""
+
+msgid "list_users"
+msgstr ""
+
+msgid "remove_users"
+msgstr ""
+
+msgid "promote_users"
+msgstr ""
+
+msgid "edit_theme_options"
+msgstr ""
+
+msgid "delete_themes"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "loco_admin"
+msgstr ""
+
+msgid "install_plugins"
+msgstr ""
+
+msgid "manage_woocommerce"
+msgstr ""
+
+msgid "view_woocommerce_reports"
+msgstr ""
+
+msgid "edit_product"
+msgstr ""
+
+msgid "read_product"
+msgstr ""
+
+msgid "delete_product"
+msgstr ""
+
+msgid "edit_products"
+msgstr ""
+
+msgid "edit_others_products"
+msgstr ""
+
+msgid "publish_products"
+msgstr ""
+
+msgid "read_private_products"
+msgstr ""
+
+msgid "delete_products"
+msgstr ""
+
+msgid "delete_private_products"
+msgstr ""
+
+msgid "delete_published_products"
+msgstr ""
+
+msgid "delete_others_products"
+msgstr ""
+
+msgid "edit_private_products"
+msgstr ""
+
+msgid "edit_published_products"
+msgstr ""
+
+msgid "manage_product_terms"
+msgstr ""
+
+msgid "edit_product_terms"
+msgstr ""
+
+msgid "delete_product_terms"
+msgstr ""
+
+msgid "assign_product_terms"
+msgstr ""
+
+msgid "edit_shop_order"
+msgstr ""
+
+msgid "read_shop_order"
+msgstr ""
+
+msgid "delete_shop_order"
+msgstr ""
+
+msgid "edit_shop_orders"
+msgstr ""
+
+msgid "edit_others_shop_orders"
+msgstr ""
+
+msgid "publish_shop_orders"
+msgstr ""
+
+msgid "read_private_shop_orders"
+msgstr ""
+
+msgid "delete_shop_orders"
+msgstr ""
+
+msgid "delete_private_shop_orders"
+msgstr ""
+
+msgid "delete_published_shop_orders"
+msgstr ""
+
+msgid "delete_others_shop_orders"
+msgstr ""
+
+msgid "edit_private_shop_orders"
+msgstr ""
+
+msgid "edit_published_shop_orders"
+msgstr ""
+
+msgid "manage_shop_order_terms"
+msgstr ""
+
+msgid "edit_shop_order_terms"
+msgstr ""
+
+msgid "delete_shop_order_terms"
+msgstr ""
+
+msgid "assign_shop_order_terms"
+msgstr ""
+
+msgid "edit_shop_coupon"
+msgstr ""
+
+msgid "read_shop_coupon"
+msgstr ""
+
+msgid "delete_shop_coupon"
+msgstr ""
+
+msgid "edit_shop_coupons"
+msgstr ""
+
+msgid "edit_others_shop_coupons"
+msgstr ""
+
+msgid "publish_shop_coupons"
+msgstr ""
+
+msgid "read_private_shop_coupons"
+msgstr ""
+
+msgid "delete_shop_coupons"
+msgstr ""
+
+msgid "delete_private_shop_coupons"
+msgstr ""
+
+msgid "delete_published_shop_coupons"
+msgstr ""
+
+msgid "delete_others_shop_coupons"
+msgstr ""
+
+msgid "edit_private_shop_coupons"
+msgstr ""
+
+msgid "edit_published_shop_coupons"
+msgstr ""
+
+msgid "manage_shop_coupon_terms"
+msgstr ""
+
+msgid "edit_shop_coupon_terms"
+msgstr ""
+
+msgid "delete_shop_coupon_terms"
+msgstr ""
+
+msgid "assign_shop_coupon_terms"
+msgstr ""
+
+msgid "Wordpress core"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Dokan"
+msgstr ""
+
+msgid "Coupon"
+msgstr ""
+
+msgid "plugin yoast"
+msgstr ""
+
+msgid "plugin loco"
+msgstr ""
+
+msgid "other plugins"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Woocommerce"
+msgstr ""
+
+msgid "users"
+msgstr ""
+
+msgid "wpseo_manage_options"
+msgstr ""
+
+msgid "dokandar"
+msgstr ""
+
+msgid "dokan_view_sales_overview"
+msgstr ""
+
+msgid "dokan_view_sales_report_chart"
+msgstr ""
+
+msgid "dokan_view_announcement"
+msgstr ""
+
+msgid "dokan_view_order_report"
+msgstr ""
+
+msgid "dokan_view_review_reports"
+msgstr ""
+
+msgid "dokan_view_product_status_report"
+msgstr ""
+
+msgid "dokan_view_overview_report"
+msgstr ""
+
+msgid "dokan_view_daily_sale_report"
+msgstr ""
+
+msgid "dokan_view_top_selling_report"
+msgstr ""
+
+msgid "dokan_view_top_earning_report"
+msgstr ""
+
+msgid "dokan_view_statement_report"
+msgstr ""
+
+msgid "dokan_view_order"
+msgstr ""
+
+msgid "dokan_manage_order"
+msgstr ""
+
+msgid "dokan_manage_order_note"
+msgstr ""
+
+msgid "dokan_manage_refund"
+msgstr ""
+
+msgid "dokan_export_order"
+msgstr ""
+
+msgid "dokan_add_coupon"
+msgstr ""
+
+msgid "dokan_edit_coupon"
+msgstr ""
+
+msgid "dokan_delete_coupon"
+msgstr ""
+
+msgid "dokan_view_reviews"
+msgstr ""
+
+msgid "dokan_manage_reviews"
+msgstr ""
+
+msgid "dokan_manage_withdraw"
+msgstr ""
+
+msgid "dokan_add_product"
+msgstr ""
+
+msgid "dokan_edit_product"
+msgstr ""
+
+msgid "dokan_delete_product"
+msgstr ""
+
+msgid "dokan_view_product"
+msgstr ""
+
+msgid "dokan_duplicate_product"
+msgstr ""
+
+msgid "dokan_import_product"
+msgstr ""
+
+msgid "dokan_export_product"
+msgstr ""
+
+msgid "dokan_view_overview_menu"
+msgstr ""
+
+msgid "dokan_view_product_menu"
+msgstr ""
+
+msgid "dokan_view_order_menu"
+msgstr ""
+
+msgid "dokan_view_coupon_menu"
+msgstr ""
+
+msgid "dokan_view_report_menu"
+msgstr ""
+
+msgid "dokan_view_review_menu"
+msgstr ""
+
+msgid "dokan_view_withdraw_menu"
+msgstr ""
+
+msgid "dokan_view_store_settings_menu"
+msgstr ""
+
+msgid "dokan_view_store_payment_menu"
+msgstr ""
+
+msgid "dokan_view_store_shipping_menu"
+msgstr ""
+
+msgid "dokan_view_store_social_menu"
+msgstr ""
+
+msgid "dokan_view_store_seo_menu"
+msgstr ""
+
+msgid "pages"
+msgstr ""
+
+msgid "Manage Access Dashboard Admin"
+msgstr ""
+
+msgid "Manage Access"
+msgstr ""
+
+msgid "Manage Access Actions & Capabilities"
+msgstr ""
+
+msgid "Create role"
+msgstr ""
+
+msgid "Edit role"
+msgstr ""
+
+msgid "Role name & Role title required!"
+msgstr ""
+
+msgid "Role name here"
+msgstr ""
+
+msgid "Role title here"
+msgstr ""
+
+msgid "manage_access"
+msgstr ""
+
+msgid "muap_cap"
+msgstr ""
+
+msgid "muap_other_roles"
+msgstr ""
+
+msgid "Manage Access Other Roles"
+msgstr ""
+
+msgid "Manage Roles"
+msgstr ""
+
+msgid "Manage Access User"
+msgstr ""
+
+msgid "manage_access_user"
+msgstr ""
+
+msgid "muap_access"
+msgstr ""
+
+msgid "disable_dashboard_alert_notifi"
+msgstr ""
